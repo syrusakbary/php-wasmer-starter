@@ -10,6 +10,7 @@ $ echo '<?php phpinfo() ?>' > ./app/index.php
 
 You can run things locally with:
 
+
 ```
 $ php -t app -S localhost:8080
 ```
