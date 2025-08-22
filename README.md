@@ -15,6 +15,7 @@ You can run things locally with:
 $ php -t app -S localhost:8080
 ```
 
+
 Or you can also use `wasmer run` to run it locally (check out the [Wasmer install guide](https://docs.wasmer.io/install)):
 
 ```console
